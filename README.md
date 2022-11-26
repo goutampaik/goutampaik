@@ -8,4 +8,4 @@
 goutampaik/goutampaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/729235/192335006-d4f2c573-165f-4c5a-aef7-7428cd74bb2b.png)
+![image](https://raw.githubusercontent.com/goutampaik/goutam/main/1665949482732.JPEG)
